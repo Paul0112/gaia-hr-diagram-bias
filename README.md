@@ -10,6 +10,11 @@ The notebook covers (at moment...):
 - Computing stellar distances and absolute magnitudes.
 - Building the Hertzsprung–Russell diagram...
 
+
+<p >
+  <img src="figures/hr_diagram_snr_per_region_biased.png" alt="HR Diagram: SNR per Region (Biased Stars)" width="700">
+</p>
+
 ## Repository structure
 
 ```
